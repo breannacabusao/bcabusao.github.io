@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Welcome to our Studio!
     text: Breanna Cabusao
     button: Who Am I?
-    buttonlink: "#services"
+    buttonlink: "#bio"
 
   bio:
     title: "Who am I?"
